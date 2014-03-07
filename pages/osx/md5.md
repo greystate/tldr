@@ -11,3 +11,7 @@
 - Output only the md5 checksum (no filename)
 
 `md5 -q {{filename}}`
+
+- Calculate the md5 checksum for a string
+
+`md5 -s {{string}}`
